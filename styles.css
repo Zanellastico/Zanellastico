@@ -1,20 +1,20 @@
 header h3{
     font-size: 100;
-    background-color: blue;
-    color: red;
+    background-color: black;
+    color: whitesmoke;
 }
 header h1{
      font-size: 80;
-    background-color: red;
-    color: blue;
+    background-color: white;
+    color: black;
 }
 footer h2{
     font-size: 50;
     background-color: red;
-    color: blue;
+    color: black;
 }
 body{
-    background-color: olive;
+    background-color: rgba(2, 1, 34, 0.973);
 }
 
 img {
@@ -27,9 +27,9 @@ img {
 }
 
 section {
-  padding-left: 20px;
-  padding-right: 20px;
-   font-size: 100;
-    background-color: rgb(140, 140, 243);
-    color: rgb(208, 255, 0);
+  padding-left: 25px;
+  padding-right: 25px;
+   font-size: 75;
+    background-color: rgb(230, 215, 8);
+    color: blueviolet;
 }
